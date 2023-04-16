@@ -1,1 +1,1 @@
-# UsefulAlgorithms
+# Useful Algorithms
