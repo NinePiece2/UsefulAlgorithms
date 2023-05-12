@@ -12,6 +12,8 @@
 
 ## List of Algorithms
 
+The Algorithms are given as a single java project where each package is a different type of Algorithm, and each package has its own Driver that runs all of the classes in the package for simplicity. The input is taken from text files other than for Substring Search Algorithms where the input is taken by user console input.
+
 - [Graphing Algorithms](UsefulAlgorithms/src/graphs)
   - [BFS/DFS](UsefulAlgorithms/src/graphs/Graph.java)
   - [Acyclic Graphs](UsefulAlgorithms/src/graphs/AcyclicGraph.java)
